@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "akumar",
-    "price": 6000,
+    "price": 60,
     "regularPrice": 7500,
     "category": "home",
     "image": "/good-vibes-neon.png",
@@ -94,5 +94,53 @@
     "reviews": 145,
     "inStock": true,
     "description": "Classic business sign that gets attention"
+  },
+  {
+    "id": "1749055061662",
+    "name": "hocb",
+    "price": 89734,
+    "regularPrice": 14124151,
+    "category": " w ",
+    "image": " fse",
+    "preview": " fse",
+    "color": "sev",
+    "size": "bs",
+    "font": "bs ",
+    "rating": 2,
+    "reviews": 0,
+    "inStock": true,
+    "description": " eag"
+  },
+  {
+    "id": "1749055581046",
+    "name": "bice",
+    "price": 114,
+    "regularPrice": 14141,
+    "category": "re",
+    "image": "qq",
+    "preview": "qq",
+    "color": "qr",
+    "size": "qrq3",
+    "font": "rq",
+    "rating": 3,
+    "reviews": 14,
+    "inStock": true,
+    "description": "14"
+  },
+  {
+    "id": "1749119642557",
+    "name": "354721",
+    "price": 123,
+    "regularPrice": 1241,
+    "category": "vf",
+    "image": "vev",
+    "preview": "vev",
+    "color": "ve2q",
+    "size": "10yuc",
+    "font": "ev",
+    "rating": 2,
+    "reviews": 24,
+    "inStock": true,
+    "description": "f3w3"
   }
 ]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "This Is Our Happy Place",
+    "image": "/happy-place-neon.png",
+    "salePrice": 6000,
+    "regularPrice": 7800,
+    "discount": "23%",
+    "preview": "/happy-place-neon.png",
+    "color": "Pink",
+    "size": "60x40cm",
+    "font": "Signature"
+  },
+  {
+    "id": "1749055676007",
+    "name": "hbqe",
+    "saleprice": 3209,
+    "regularPrice": 5141,
+    "category": "141",
+    "image": "14",
+    "preview": "14",
+    "color": "14",
+    "size": "41",
+    "font": "14",
+    "rating": 1,
+    "reviews": 11,
+    "inStock": true,
+    "description": "1R1"
+  },
+  
+  {
+    "id": 3,
+    "title": "This Is Our Happy Place",
+    "image": "/happy-place-neon.png",
+    "salePrice": 6000,
+    "regularPrice": 7800,
+    "discount": "23%",
+    "preview": "/happy-place-neon.png",
+    "color": "Pink",
+    "size": "60x40cm",
+    "font": "Signature"
+  }
+
+]
